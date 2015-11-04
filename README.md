@@ -1,6 +1,6 @@
 # pyqg_gallery
 
-A collection of [pyqg](https://github.com/pyqg/pyqg) examples. This gallery is rendered on [nbviewer](http://nbviewer.ipython.org/github/pyqg/pyqg_gallery/blob/master/examples/LarichevHeld1995/LH95.ipynb), but need to be cloned or downloaded, and executed locally.
+A collection of [pyqg](https://github.com/pyqg/pyqg) examples. This gallery is rendered on [nbviewer](http://nbviewer.ipython.org/github/pyqg/pyqg_gallery/blob/master/examples/LarichevHeld1995/LH95.ipynb), but examples need to be cloned or downloaded, and executed locally.
 # Contributing
 
 The workflow for contributing to `pyqg_gallery` is similar
@@ -18,7 +18,7 @@ $ cd pyqg_gallery
 $ git remote add upstream git://github.com/pyqg/pyqg_gallery.git
 ```
 
-Make sure to sync your local `master` branch with upstream/master
+Make sure to sync your local `master` branch with `upstream/master`
 
 ```{bash}
 $ git fetch upstream
@@ -38,5 +38,5 @@ $ git push new_example
 ```
 and submit a [pull request](https://help.github.com/articles/using-pull-requests/).
 
-If the example is based on paper or section of a book, please provide detailed reference
+If the example is based on a paper or section of a book, please provide detailed reference
 or link within the notebook.
