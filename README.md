@@ -1,6 +1,6 @@
 # pyqg_gallery
 
-A collection of [pyqg](https://github.com/pyqg/pyqg) examples. This gallery is rendered on [nbviewer](http://nbviewer.ipython.org/github/pyqg/pyqg_gallery/blob/master/examples/LarichevHeld1995/LH95.ipynb), but examples need to be cloned or downloaded, and executed locally.
+A collection of [pyqg](https://github.com/pyqg/pyqg) examples. This gallery is rendered on [nbviewer](http://nbviewer.ipython.org/github/pyqg/pyqg_gallery/blob/master/examples/index.ipynb), but examples need to be cloned or downloaded, and executed locally.
 # Contributing
 
 The workflow for contributing to `pyqg_gallery` is similar
